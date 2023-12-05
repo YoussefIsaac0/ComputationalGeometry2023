@@ -9,6 +9,7 @@ namespace CGAlgorithms.Algorithms.ConvexHull
 {
     public class DivideAndConquer : Algorithm
     {
+        //main
         public override void Run(List<Point> points, List<Line> lines, List<Polygon> polygons, ref List<Point> outPoints, ref List<Line> outLines, ref List<Polygon> outPolygons)
         {
             points = points.OrderBy(p => p.X).ThenBy(p => p.Y).ToList(); // O(Nlog(N))

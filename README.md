@@ -6,3 +6,4 @@
 In ms2 we take a polygon as input and we output lines representing the lines needed to form the trangulation of the polygon.</h6>
 <h6>In order to use the gui in ms2, the inputs will be in lines not in polygons</h6>
 <p>Inserting Diagonals & Subtracting ears & Monotone Triangulation Done</p>
+<p>there will be 2 separate codes for ms2, will be updated by the end of the semester.</p>
